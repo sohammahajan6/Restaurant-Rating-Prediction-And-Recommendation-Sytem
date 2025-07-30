@@ -17,13 +17,18 @@ A comprehensive web application that combines restaurant recommendations with ma
 
 ## Dataset
 
-The application uses the Zomato restaurant dataset containing information about:
+The application uses the Zomato Bangalore Restaurants dataset from Kaggle:
+**Dataset Source**: [Zomato Bangalore Restaurants](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
+
+The dataset contains information about:
 - Restaurant locations
 - Cuisine types
 - Cost for two people
 - Online ordering availability
 - Table booking options
 - User votes and ratings
+
+**Note**: Download the dataset from the Kaggle link above and place `zomato.csv` in the project directory to run the full analysis.
 
 ## Technologies Used
 
@@ -146,7 +151,3 @@ The rating prediction feature uses an Extra Trees Regressor model trained on Zom
 ## Contributing
 
 Feel free to fork this repository and submit pull requests for any improvements.
-
-## License
-
-This project is open source and available under the MIT License.
