@@ -43,8 +43,8 @@ The dataset contains information about:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/sohammahajan6/Restaurant-Rating-Prediction-And-Recommendation-Sytem.git
+cd Restaurant-Rating-Prediction-And-Recommendation-Sytem
 ```
 
 2. Install required packages:
